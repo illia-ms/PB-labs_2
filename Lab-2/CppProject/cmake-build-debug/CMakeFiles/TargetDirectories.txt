@@ -1,0 +1,3 @@
+C:/Labs/pb labs/Lab-2/CppProject/cmake-build-debug/CMakeFiles/CppProject.dir
+C:/Labs/pb labs/Lab-2/CppProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Labs/pb labs/Lab-2/CppProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

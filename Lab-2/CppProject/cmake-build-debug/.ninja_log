@@ -1,0 +1,7 @@
+# ninja log v5
+2	357	6753087410561757	CMakeFiles/CppProject.dir/main.cpp.obj	2cf478ee6a3b1f58
+4	382	6753087410831036	CMakeFiles/CppProject.dir/lab-2.cpp.obj	22557ca6d91e3f20
+382	507	6753087412051985	CppProject.exe	6cc3571cc010bb02
+0	248	6753945523691188	build.ninja	c0a6e9d73bbd31a9
+3	602	6754375489459259	CMakeFiles/CppProject.dir/main.cpp.obj	2cf478ee6a3b1f58
+602	976	6754375493167307	CppProject.exe	6cc3571cc010bb02
